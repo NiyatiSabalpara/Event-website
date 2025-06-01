@@ -6,6 +6,7 @@ Welcome to the official repository for **NMIMS TechEve 2025**, an event-centric 
 
 ## 🌐 Live Preview
 
+![Alt Text](Screenshot 2025-06-01 141518.png)
 
 
 ---
