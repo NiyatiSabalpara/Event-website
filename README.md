@@ -6,7 +6,7 @@ Welcome to the official repository for **NMIMS TechEve 2025**, an event-centric 
 
 ## 🌐 Live Preview
 
-> *(Optional: Add GitHub Pages link or live hosted demo URL here if available)*
+
 
 ---
 
